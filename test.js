@@ -6,3 +6,4 @@ function sumTo(n) {
 	}
 	return alert( sumTo(n) );
 }	
+/*Test for second commit*/
